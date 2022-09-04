@@ -1,0 +1,10 @@
+body div{
+    margin-top: -51vh;
+    margin-left: 44vw;
+    z-index: 1;
+}
+#img{
+    width: 100vw;
+    z-index: -1;
+    height: 100vh;
+}
